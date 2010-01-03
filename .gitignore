@@ -1,0 +1,20 @@
+# ignore compiled python files
+*.pyc
+
+# ignore logs
+*.log
+
+# ignore pid files
+*.pid
+
+# ignore vim swap files
+*.swp
+
+# ignore twistd files
+dropin.cache
+
+# ignore setuptools metafiles
+*.egg-info
+
+build
+dist
