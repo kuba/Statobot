@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import sys, os
 
-version = '0.1dev'
+version = '0.1.1dev'
 
 setup(name='Statobot',
       version=version,
